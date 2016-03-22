@@ -1,0 +1,1 @@
+# share-stock-management-app
